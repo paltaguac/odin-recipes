@@ -1,4 +1,7 @@
-
+.index{
+    background-color: rgba(236, 195, 60, 0.651);
+    text-align: center;
+}
 .recipe-page{
     background-color: rgba(236, 195, 60, 0.651);
     font-weight: lighter;
